@@ -1,2 +1,2 @@
-# web-dev
-practising-web-dev
+# practising-web-dev
+
